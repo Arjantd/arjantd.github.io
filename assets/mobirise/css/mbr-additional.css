@@ -1714,7 +1714,7 @@ body {
   }
 }
 .cid-qv6Kjhaxb6 {
-  background-image: url("../../../assets/images/visual-4-voor-website-2-1280x720.jpg");
+  background-image: url("../../../assets/images/img-8805-2000x1271.jpg");
 }
 .cid-qv6Kjhaxb6 .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -1728,10 +1728,10 @@ body {
 }
 .cid-qv6Kjhaxb6 .mbr-text,
 .cid-qv6Kjhaxb6 .mbr-section-btn {
-  color: #465052;
+  color: #ffffff;
 }
 .cid-qv6Kjhaxb6 SPAN {
-  color: #303551;
+  color: #ffffff;
 }
 .cid-qvdcgEE3jL {
   padding-top: 60px;
@@ -1830,17 +1830,22 @@ body {
   color: #1f2338;
 }
 .cid-qwrn28XpYt {
-  background-image: url("../../../assets/images/img-8805-2000x1271.jpg");
+  background-image: url("../../../assets/images/visual-4-voor-website-2-1280x720.jpg");
 }
 .cid-qwrn28XpYt .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
 .cid-qwrn28XpYt H1 {
   text-align: right;
+  color: #1f2338;
 }
 .cid-qwrn28XpYt .mbr-text,
 .cid-qwrn28XpYt .mbr-section-btn {
   text-align: right;
+}
+.cid-qwrn28XpYt .mbr-text,
+.cid-qwrn28XpYt .mbr-section-btn I {
+  color: #1f2338;
 }
 .cid-qvcv2R4OXg {
   padding-top: 60px;
