@@ -46,6 +46,24 @@
       "components": [
         {
           "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Alleen jijzelf, de stilte en dat wat gebeuren wil. Deze 4-daagse stilte retraite vindt plaats in het trainingscentrum naast het eeuwenoude klooster van de Capucijnen in Velp/Grave, gelegen aan de prachtige uiterwaarden van de Maas. Dit plekje is enige jaren geleden door een van de omroepen verkozen tot het 'stilte plekje van Nederland'. Hieronder laten wij u graag wat foto's zien van het klooster, zijn lommerijke kloostertuin en de directe omgeving van het tot de verbeelding sprekende complex:</div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qL8QtBWfr7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-2"
+        },
+        {
+          "_styles": {
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)"
@@ -65,24 +83,6 @@
           "_once": false,
           "_params": {},
           "_anchor": "header1-1"
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Alleen jijzelf, de stilte en dat wat gebeuren wil. Deze 4-daagse stilte retraite vindt plaats in het trainingscentrum naast het eeuwenoude klooster van de Capucijnen in Velp/Grave, gelegen aan de prachtige uiterwaarden van de Maas. Dit plekje is enige jaren geleden door een van de omroepen verkozen tot het 'stilte plekje van Nederland'. Hieronder laten wij u graag wat foto's zien van het klooster, zijn lommerijke kloostertuin en de directe omgeving van het tot de verbeelding sprekende complex:</div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qL8QtBWfr7",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content1-2"
         },
         {
           "_styles": {
