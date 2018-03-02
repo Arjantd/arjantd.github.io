@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-02_1226",
-    "currentPage": "Paasretraite.github.io.html",
+    "currentPage": ".github.io.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
     "versionPublish": "4.6.5"
   },
   "pages": {
-    "Paasretraite.github.io.html": {
+    ".github.io.html": {
       "settings": {
         "main": true,
         "title": "Stilte retraite: iets voor jou?",
