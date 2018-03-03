@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Stilte retraite 28 maart - 1 april 2018",
-    "currentPage": "Retraite.html",
+    "currentPage": "Page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 74,
+    "uniqCompNum": 86,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -510,7 +510,7 @@
         }
       ]
     },
-    "Retraite.html": {
+    "Page1.html": {
       "settings": {
         "title": "Retraite 2018",
         "meta_descr": "Ineenhutjeopdehei organiseert van 28 maart tot 1 april een 4-daagse Paasretraite in Velp, Noord-Brabant. Deze retraite is geschikt voor iedereen die nog nooit een stilte retraite heeft gedaan - maar ook voor diegenen die al eerder een vierdaagse Re-treat je Hart deden en graag nóg eens in de stilte willen oplossen. Op deze webpagina een impressie van de prachtige locatie waar deze retraite plaatsvindt. Geinteresseerd? Lees meer op onze website of neem direct contact op met retraite leider Robbert van Bruggen.  ",
