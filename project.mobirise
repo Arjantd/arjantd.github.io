@@ -29,10 +29,10 @@
       },
       "additionalSetColors": []
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/hutje-logo-zwart-128x35.png",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 103,
+    "uniqCompNum": 117,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
