@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Stilte retraite 28 maart - 1 april 2018",
+    "name": "Stilte retraite 6 t/m 10 maart 2019",
     "currentPage": "index.github.io.html",
     "theme": {
       "name": "mobirise4",
@@ -42,7 +42,8 @@
         "name": "Rubik",
         "css": "'Rubik', sans-serif"
       }
-    ]
+    ],
+    "сanonical-url": ""
   },
   "pages": {
     "Page1.html": {
