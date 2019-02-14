@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Stilte retraite 6 t/m 10 maart 2019",
-    "currentPage": "index.github.io.html",
+    "currentPage": "index1.github.io.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -518,10 +518,10 @@
         }
       ]
     },
-    "index.github.io.html": {
+    "index1.github.io.html": {
       "settings": {
         "main": true,
-        "title": "Stilte retraite 6-10 maart 2019: nog enkele plaatsen vrij!",
+        "title": "Stilte retraite 6 t/m 10 maart 2019: nog enkele plaatsen vrij!",
         "meta_descr": "Ineenhutjeopdehei organiseert van 6 t/m 10 maart een vierdaagse stilte retraite in Velp, Noord-Brabant. Deze retraite is voor iedereen die graag eens een stilte retraite wil ondergaan: voor de allereerste keer, of omdat je al eens eerder een vierdaagse Re-treat je Hart deed en graag nóg eens in de stilte wil oplossen.  Maximaal aantal deelnemers: 12. ",
         "header_custom": "",
         "footer_custom": "",
